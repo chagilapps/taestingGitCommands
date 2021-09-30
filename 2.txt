@@ -1,3 +1,1 @@
-this is another step in work proccess of dev 1   2/3 steps
-
-***done***
+edited by dev 1 only in 3rd change 
